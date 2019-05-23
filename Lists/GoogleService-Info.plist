@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>155531708882-0rm8bu42tmke741ref8vgm6u30qvo4el.apps.googleusercontent.com</string>
+	<string>***</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.155531708882-0rm8bu42tmke741ref8vgm6u30qvo4el</string>
+	<string>***</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC3dOSN_tRzsLn9IDsXN1bzM8xN-bWyyNU</string>
+	<string>***</string>
 	<key>GCM_SENDER_ID</key>
-	<string>155531708882</string>
+	<string>***</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.shahar.Lists</string>
 	<key>PROJECT_ID</key>
-	<string>lists-44dff</string>
+	<string>***</string>
 	<key>STORAGE_BUCKET</key>
-	<string>lists-44dff.appspot.com</string>
+	<string>***/string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:155531708882:ios:61ccd2600b436977</string>
+	<string>***</string>
 	<key>DATABASE_URL</key>
-	<string>https://lists-44dff.firebaseio.com</string>
+	<string>***</string>
 </dict>
 </plist>
