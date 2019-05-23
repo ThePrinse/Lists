@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Click on the + to add a new list"; ObjectID = "0dW-sq-2VA"; */
+"0dW-sq-2VA.text" = "לחצו על ה־+ כדי להוסיף רשימה חדשה";
+
+/* Class = "UIButton"; normalTitle = "Select Image"; ObjectID = "18y-ht-2Ez"; */
+"18y-ht-2Ez.normalTitle" = "בחרו תמונה";
+
+/* Class = "UILabel"; text = "List Name:"; ObjectID = "2JP-ad-Hnp"; */
+"2JP-ad-Hnp.text" = "שם הרשימה:";
+
+/* Class = "UINavigationItem"; title = "Add List"; ObjectID = "5ZY-l3-Am6"; */
+"5ZY-l3-Am6.title" = "הוספה";
+
+/* Class = "UILabel"; text = "Image:"; ObjectID = "5i4-Sa-eBE"; */
+"5i4-Sa-eBE.text" = "תמונה:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "6sg-LY-Clh"; */
+"6sg-LY-Clh.text" = "שם:";
+
+/* Class = "UILabel"; text = "Your Lists"; ObjectID = "7jw-rE-WWD"; */
+"7jw-rE-WWD.text" = "הרשימות שלך";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "AgF-H3-sje"; */
+"AgF-H3-sje.placeholder" = "שם";
+
+/* Class = "UILabel"; text = "To delete a row, delete all it's text"; ObjectID = "B3W-cq-ItX"; */
+"B3W-cq-ItX.text" = "כדי למחוק רשימה, מחקו את כל הטקסט שלה";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "BDn-G3-eiA"; */
+"BDn-G3-eiA.normalTitle" = "שמירה";
+
+/* Class = "UIButton"; normalTitle = "Select Image"; ObjectID = "CtZ-Os-VOD"; */
+"CtZ-Os-VOD.normalTitle" = "בחירת תמונה";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D6L-yt-gpU"; */
+"D6L-yt-gpU.text" = "תווית";
+
+/* Class = "UIButton"; normalTitle = "Add List"; ObjectID = "DRX-Z8-17T"; */
+"DRX-Z8-17T.normalTitle" = "הוספת רשימה";
+
+/* Class = "UINavigationItem"; title = "Your Lists"; ObjectID = "HCp-L5-rN1"; */
+"HCp-L5-rN1.title" = "הרשימות שלך";
+
+/* Class = "UILabel"; text = "Tap on the row's text to edit it"; ObjectID = "MVD-bK-Qc7"; */
+"MVD-bK-Qc7.text" = "לחצו על הטקסט של השורה כדי לערוך אותה";
+
+/* Class = "UILabel"; text = "Click on the + to add a new row to a list"; ObjectID = "T2g-lL-GEY"; */
+"T2g-lL-GEY.text" = "כדי להוסיף שורה לרשימה, לחצו על ה־+";
+
+/* Class = "UIBarButtonItem"; title = "Your Lists"; ObjectID = "U8K-Bn-52I"; */
+"U8K-Bn-52I.title" = "הרשימות שלך";
+
+/* Class = "UILabel"; text = "A row"; ObjectID = "XcJ-ym-RN2"; */
+"XcJ-ym-RN2.text" = "שורה";
+
+/* Class = "UINavigationItem"; title = "Edit List"; ObjectID = "f2K-di-6T6"; */
+"f2K-di-6T6.title" = "עריכת רשימה";
+
+/* Class = "UILabel"; text = "List Image:"; ObjectID = "ieT-PC-6Bv"; */
+"ieT-PC-6Bv.text" = "תמונה:";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "oDz-DP-yPY"; */
+"oDz-DP-yPY.placeholder" = "שם";
+
+/* Class = "UILabel"; text = "A row"; ObjectID = "qYB-67-jeb"; */
+"qYB-67-jeb.text" = "שורה";
